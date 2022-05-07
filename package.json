@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/masterfabela/pugstagram#readme",
   "dependencies": {
+    "node-sass": "^7.0.1",
+    "sass": "^1.51.0",
     "svelte": "^3.46.4"
   },
   "devDependencies": {
